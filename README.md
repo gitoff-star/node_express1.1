@@ -3,12 +3,12 @@ node_express1.1
 This repository contains a set of test APIs for a shopping cart application built using Node.js, Express.js, and MongoDB.
 
 # #  Table of Contents
-Installation.
-Usage.
-Features.
-API Endpoints.
-Authentication and Authorization.
-Database.
+Installation. <br>
+Usage.<br>
+Features.<br>
+API Endpoints.<br>
+Authentication and Authorization.<br>
+Database.<br>
 Tests
 Contributing. 
 License .
