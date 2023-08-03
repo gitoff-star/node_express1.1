@@ -14,7 +14,7 @@ Contributing
 License
 Contact
 Installation
-Clone the repository: git clone https://github.com/your-username/shopping-cart-test-apis.git
+Clone the repository: git clone https://github.com/gitoff-star/node_express1.1.git
 Install dependencies: npm install
 Set up MongoDB: Instructions for setting up MongoDB
 Start the server: npm start
