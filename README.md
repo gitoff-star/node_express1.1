@@ -3,24 +3,24 @@ node_express1.1
 This repository contains a set of test APIs for a shopping cart application built using Node.js, Express.js, and MongoDB.
 
 # #  Table of Contents
-Installation/
-Usage/
-Features/
-API Endpoints/
-Authentication and Authorization/
-Database/
-Tests/
-Contributing/
-License/
-Contact/
-Installation/
-Clone the repository: git clone https://github.com/gitoff-star/node_express1.1.git/
-Install dependencies: npm install/
-Set up MongoDB: Instructions for setting up MongoDB/
-Start the server: npm start /
-Your API should now be running on http://localhost:3000 /
-Usage/
-To use the shopping cart test APIs, you can make HTTP requests to the specified endpoints. You can use tools like Postman or cURL to test the APIs. /
+Installation.
+Usage.
+Features.
+API Endpoints.
+Authentication and Authorization.
+Database.
+Tests
+Contributing. 
+License .
+Contact .
+Installation .
+Clone the repository: git clone https://github.com/gitoff-star/node_express1.1.git .
+Install dependencies: npm install .
+Set up MongoDB: Instructions for setting up MongoDB/ .
+Start the server: npm start .
+Your API should now be running on http://localhost:3000 .
+#Usage
+To use the shopping cart test APIs, you can make HTTP requests to the specified endpoints. You can use tools like Postman or cURL to test the APIs. 
 
 # # Features
 Add products to the cart
